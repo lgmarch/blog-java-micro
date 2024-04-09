@@ -1,0 +1,4 @@
+include ':microservices:user-service'
+include ':microservices:message-service'
+include ':microservices:comments-service'
+include ':microservices:likes-service'
